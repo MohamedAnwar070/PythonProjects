@@ -34,7 +34,6 @@ python Coffee\ Machine\ Project.py
 
 python Students\ Management.py
 
-### Contact
-Email: mohamedanwar.asraf@gmail.com
-GitHub: @MohamedAnwar070
-
+## 📬 Contact
+- **Email**: [mohamedanwar.asraf@gmail.com](mailto:mohamedanwar.asraf@gmail.com)
+- **GitHub**: [@MohamedAnwar070](https://github.com/MohamedAnwar070)

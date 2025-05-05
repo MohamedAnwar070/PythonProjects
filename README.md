@@ -19,6 +19,8 @@ This repository contains multiple Python projects developed for different purpos
 ### Prerequisites
 - Python 3.x installed on your local machine.
 
+---
+
 ### To run the projects:
 1. Clone the repository:
    ```bash
@@ -33,6 +35,8 @@ python Banking\ System\ Project.py
 python Coffee\ Machine\ Project.py
 
 python Students\ Management.py
+
+---
 
 ## 📬 Contact
 - **Email**: [mohamedanwar.asraf@gmail.com](mailto:mohamedanwar.asraf@gmail.com)

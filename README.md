@@ -24,12 +24,14 @@ This repository contains multiple Python projects developed for different purpos
    ```bash
    git clone https://github.com/MohamedAnwar070/PythonProjects.git
 
-   cd your-repository-name
+   cd separate-name
 For each project, run the respective Python file:
 
 ```bash
 python Banking\ System\ Project.py
+
 python Coffee\ Machine\ Project.py
+
 python Students\ Management.py
 
 ### Contact

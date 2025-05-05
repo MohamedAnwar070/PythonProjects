@@ -16,12 +16,10 @@ This repository contains multiple Python projects developed for different purpos
 
 ## Setup and Usage
 
-### Prerequisites
+## Prerequisites
 - Python 3.x installed on your local machine.
 
----
-
-### To run the projects:
+## To run the projects:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MohamedAnwar070/PythonProjects.git
@@ -35,8 +33,6 @@ python Banking\ System\ Project.py
 python Coffee\ Machine\ Project.py
 
 python Students\ Management.py
-
----
 
 ## 📬 Contact
 - **Email**: [mohamedanwar.asraf@gmail.com](mailto:mohamedanwar.asraf@gmail.com)

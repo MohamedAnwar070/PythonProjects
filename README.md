@@ -29,9 +29,7 @@ For each project, run the respective Python file:
 
 ```bash
 python Banking\ System\ Project.py
-```bash
 python Coffee\ Machine\ Project.py
-```bash
 python Students\ Management.py
 
 ### Contact

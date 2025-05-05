@@ -21,21 +21,24 @@ This repository contains multiple Python projects developed for different purpos
 
 ## To run the projects:
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/MohamedAnwar070/PythonProjects.git
 
    cd separate-name
+   ```
 For each project, run the respective Python file:
 
-```bash
+```
 python Banking\ System\ Project.py
 
 python Coffee\ Machine\ Project.py
 
 python Students\ Management.py
+```
+
 
 ## 📬 Contact
 - **Email**: [mohamedanwar.asraf@gmail.com](mailto:mohamedanwar.asraf@gmail.com)
 - **GitHub**: [@MohamedAnwar070](https://github.com/MohamedAnwar070)
 
----
+
